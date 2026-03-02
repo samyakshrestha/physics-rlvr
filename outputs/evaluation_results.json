@@ -1,0 +1,23 @@
+{
+  "eval_size": 200,
+  "base": {
+    "accuracy": 0.38,
+    "extraction_rate": 1.0,
+    "correct": 76,
+    "total": 200
+  },
+  "sft": {
+    "accuracy": 0.56,
+    "extraction_rate": 0.99,
+    "correct": 112,
+    "total": 200,
+    "format_compliance": 0.99
+  },
+  "grpo": {
+    "accuracy": 0.565,
+    "extraction_rate": 0.99,
+    "correct": 113,
+    "total": 200,
+    "format_compliance": 0.99
+  }
+}

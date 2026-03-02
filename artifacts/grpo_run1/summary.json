@@ -1,0 +1,6 @@
+{
+  "final_step": 250,
+  "final_reward": 0.35462501645088196,
+  "final_correctness_mean": 0.28125,
+  "max_correctness_mean": 0.875
+}
